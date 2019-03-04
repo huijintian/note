@@ -13,3 +13,7 @@ https://github.com/leopard5/yz-generate-code
 http://songkun.me/
 
 http://thinkinjava.cn/2019/02/25/2019-02-26-canal-read/
+
+https://www.sczyh30.com/archives/
+
+https://willemjiang.github.io/
