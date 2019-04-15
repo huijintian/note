@@ -32,3 +32,6 @@ http://www.spring4all.com/
 
 http://www.spring4all.com/article/6895
 
+https://love2.io/@hakukata/doc/All-About-Redis/IndependentFunc/transection.md
+
+https://love2.io/@webeta/doc/design-pattern-java
