@@ -35,3 +35,8 @@ http://www.spring4all.com/article/6895
 https://love2.io/@hakukata/doc/All-About-Redis/IndependentFunc/transection.md
 
 https://love2.io/@webeta/doc/design-pattern-java
+
+
+消息队列
+  优点：解耦、异步、削峰
+  缺点：高可用、消息丢失问题
