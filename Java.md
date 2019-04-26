@@ -36,7 +36,11 @@ https://love2.io/@hakukata/doc/All-About-Redis/IndependentFunc/transection.md
 
 https://love2.io/@webeta/doc/design-pattern-java
 
-
+```
 消息队列
   优点：解耦、异步、削峰
   缺点：高可用、消息丢失问题
+```
+
+Spring（事务、aop、ioc）、SpringBoot（自动装配）、SpringMVC（流程）、MyBatis（datasource、插件）、Zookeeper、tcc、Sentinel、kafka、
+
